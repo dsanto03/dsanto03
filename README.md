@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Diogo!👋
+I'm a chemistry student in my second year bachelor's at EPFL. 
 <!--
 **dsanto03/dsanto03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
